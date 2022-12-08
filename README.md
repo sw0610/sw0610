@@ -1,5 +1,5 @@
 ### ✨sowon's github✨
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0610](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0610&show_icons=true&theme=radical)
 
 <!--
 **sw0610/sw0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
