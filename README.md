@@ -1,7 +1,7 @@
 
 <!--<h2>✨sowon's github✨</h2>-->
 
-![Sowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0610&show_icons=true&theme=radical&hide=stars,issues&count_private=true)
+![sw0610 GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0610&show_icons=true&theme=radical&hide=stars,issues&count_private=true)
 
 <h3>🛠️ Tech Stacks 🛠️</h3>
 <h4>Langauges & Platforms</h4>
