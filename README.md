@@ -4,7 +4,7 @@
 ![sw0610 GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0610&show_icons=true&theme=radical&hide=stars,issues&count_private=true)
 
 <h3>🛠️ Tech Stacks 🛠️</h3>
-<h4>Langauges & Platforms</h4>
+<h4>Languages & Platforms</h4>
 <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
